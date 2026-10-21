@@ -6,7 +6,7 @@ A desktop application using Python to automate and centralize a non-GUI resource
 - Role Based Access Control: Different interfaces and permissions for Lecturers, Campus Administrators and System Operators.
 - OOP Architecture: Encapsulation & Inheritance (models.py).
 Campus-Specific Rules: These refer to booking rules in each campus (Johannesburg, Cape Town, Durban) which detail durations and hours.
-Double-Booking Prevention – The system will automatically check for double booking of time slots before accepting a booking.
+Double-Booking Prevention: The system will automatically check for double booking of time slots before accepting a booking.
 SQLite Database: Persistent Users, Campuses, Resources, and Bookings.
 Reporting: System operators are able to create cross-campus reports (most used resources, average booking durations)
 
