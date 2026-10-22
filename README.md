@@ -29,4 +29,4 @@ This repository needs to be cloned on your local machine.
 It is important to note that on the first run, the SQLite database (campus.db) will be automatically created.
 
 ## Author
-- **Andani** - 402418534
+- **Andani** Student number: 402418534
